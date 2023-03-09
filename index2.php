@@ -1,5 +1,6 @@
 <?php
- echo “Hola, Soy angel ruiz morales’. GITHUB”
-?>
- 
 
+echo"Hola, Soy Ángel Ruiz Morales. GITHUB";
+
+
+?>
