@@ -1,5 +1,5 @@
 <?php
-echo "Hola, Soy Ángel Ruiz Morales. GITHUB";
+echo "Hola, Soy Ángel Ruiz Morales. GITHUB viernes";
 
 ?>
 
